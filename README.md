@@ -2,7 +2,7 @@
 
 ## The Smart Restaurant Assistant is designed for restaurants.
 
-Leveraging advanced AI capabilities, the system handles all stages of the customer experience, from greeting guests to processing payments.
+Leveraging advanced AI capabilities, the system handles all stages of the customer experience.
 This innovative solution integrates seamlessly into restaurant workflows, providing efficient, engaging, and personalized interactions.
 
 ## Key Features
