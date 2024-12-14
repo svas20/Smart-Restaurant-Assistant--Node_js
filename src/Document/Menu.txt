@@ -1,0 +1,28 @@
+﻿
+Category	       Item	                             Description										
+Queen Bee Series	     Queen Bee	              Special tea sweetened with brown sugar, served with crème brûlée and brown sugar boba.     
+                             Mama Bee                 Crème Brûlée, Fresh Milk, and Ube.
+                             Baby Bee	              Crème Brûlée and Fresh Milk.
+                             Oreo Crème Brûlée	      Crème Brûlée, Oreo crumble, fresh milk, premium black tea, and brown sugar boba.
+Stinger	                     Stinger	              A refreshing mix of tropical fruits and ginger ale (non- dairy).
+Matcha Series	             Strawberry Matcha Latte  Organic Japanese matcha combined with strawberry bits and fresh milk.
+                             Mango Matcha Latte	      Organic Japanese matcha combined with mango bits and fresh milk.
+                             Matcha Freeze	      Combination of organic matcha and house sweet milk, served with sea cream.
+                             Matcha Milk Tea	      Organic Japanese matcha combined with fresh milk.
+Smoothies/Slushy	     Ube Cloud	              Ube smoothie mixed with Oreo crumbles.
+                             Taro Dream	              Fresh Taro smoothie, served with sweet cream.
+
+
+
+
+Customization Options:
+
+	Sugar Level: Extra, Regular, Less, No Sugar
+	Milk Choices: Whole, Skim, Soy, Almond, Oat
+	Add-Ons:
+		Oreo Crumbles
+		Tapioca Pearls (Boba)
+		Fruit Jellies (Lychee, Mango, Strawberry)
+		Popping Boba
+		Grass Jelly
+	Ice Level: Extra, Regular, Less, No Ice
